@@ -2,6 +2,11 @@
 
 # AOSP Dual-OS (Android + GNU/Linux) 🚀
 
+> **Development home:** https://github.com/ImL1s/aosp-linux  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/aosp-linux) · [GitLab](https://gitlab.com/aa22396584/aosp-linux)
+
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![AOSP Version](https://img.shields.io/badge/AOSP-Android_15%2F16-green.svg)](https://source.android.com)
 [![Architecture](https://img.shields.io/badge/Architecture-ARM64-orange.svg)](https://github.com/ImL1s/aosp-linux)
