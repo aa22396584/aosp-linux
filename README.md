@@ -2,14 +2,17 @@
 
 # AOSP Dual-OS (Android + GNU/Linux) 🚀
 
-> **Development home:** https://github.com/ImL1s/aosp-linux  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/aosp-linux) · [GitLab](https://gitlab.com/aa22396584/aosp-linux)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/aosp-linux
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/aosp-linux) ·
+[Codeberg](https://codeberg.org/ImL1s/aosp-linux)
 
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![AOSP Version](https://img.shields.io/badge/AOSP-Android_15%2F16-green.svg)](https://source.android.com)
-[![Architecture](https://img.shields.io/badge/Architecture-ARM64-orange.svg)](https://github.com/ImL1s/aosp-linux)
+[![Architecture](https://img.shields.io/badge/Architecture-ARM64-orange.svg)](https://github.com/aa22396584/aosp-linux)
 [![AVF / crosvm](https://img.shields.io/badge/Hypervisor-AVF_%2F_crosvm_%2F_KVM-purple.svg)](https://source.android.com/docs/core/virtualization)
 
 > **「一個 AOSP 產品，兩個隔離的執行環境，一個統一的使用者體驗」**  
@@ -148,7 +151,7 @@ aosp-linux/
 
 ### 1. 複製 repository 至 AOSP 樹中
 ```bash
-git clone https://github.com/ImL1s/aosp-linux.git vendor/aosp-linux
+git clone https://github.com/aa22396584/aosp-linux.git vendor/aosp-linux
 ```
 
 ### 2. 編譯 AOSP 模組與 Terminal App
